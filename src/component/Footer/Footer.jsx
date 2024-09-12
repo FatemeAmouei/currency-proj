@@ -9,24 +9,24 @@ export default function Footer() {
           <div className="font-sans">
              طراحی شده توسط
             <strong className="w-96 h-full text-tahiti-900 py-4 text-md ">
-              <span> فاطمه عموئی </span>
+              <a href="https://github.com/FatemeAmouei"> فاطمه عموئی </a>
             </strong>
           </div>
         </div>
         <div className="w-96 flex justify-around items-center fa-lg pt-4 mt-4 text-tahiti-900">
-          <a href="facebook">
-            <i className='fab fa-facebook'></i>
+          <a href="https://t.me/Fatemeamouie/">
+            <i className='fab fa-telegram'></i>
           </a>  
-          <a href="twiter">
-            <i className='fab fa-twitter'></i>
+          <a href="https://github.com/FatemeAmouei">
+            <i className='fab fa-github'></i>
           </a>
-          <a href="linkedin">
+          <a href="https://www.linkedin.com/in/fateme-amouie-aa1029324/?trk=public-profile-join-page">
             <i className='fab fa-linkedin'></i>
           </a>
-          <a href="youtube">
-            <i className='fab fa-youtube'></i>
+          <a href="https://gitlab.com/FatemeAmouei">
+            <i className='fab fa-gitlab'></i>
           </a>
-          <a href="instagram">
+          <a href="https://www.instagram.com/fatemeamouie/">
             <i className='fab fa-instagram'></i>
           </a>
         </div>
